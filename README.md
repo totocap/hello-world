@@ -1,3 +1,3 @@
 # hello-world
 Ceci est un projet de test.
-Et je rajotue du texte
+Et je rajoute du texte
